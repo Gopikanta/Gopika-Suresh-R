@@ -21,4 +21,5 @@ I, am passionate about leveraging AI technologies to solve complex challenges an
 
 **Reachout Me--**  
 Linkedin : [Linkedin](https://www.linkedin.com/in/gopika-suresh-r-6b333b261/)
-Github : [Github]()
+
+Github : [Github](https://github.com/Gopikanta)
