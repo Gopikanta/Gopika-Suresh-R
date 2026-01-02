@@ -20,4 +20,5 @@ I, am passionate about leveraging AI technologies to solve complex challenges an
 * To build AI-driven solutions that create meaningful societal and business impact.
 
 **Reachout Me--**  
-Linkedin : [website](https://www.linkedin.com/in/gopika-suresh-r-6b333b261/)
+Linkedin : [Linkedin](https://www.linkedin.com/in/gopika-suresh-r-6b333b261/)
+Github : [Github]()
